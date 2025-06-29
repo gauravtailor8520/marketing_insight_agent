@@ -33,9 +33,7 @@ marketing_insight_agent/
 │   └── chroma_index/      # Vector database storage
 ├── evals/                 # Evaluation and testing
 │   ├── eval_metric.py     # Custom evaluation metrics
-│   ├── test_ragas.py      # RAGAS evaluation
-│   ├── test_rouge.py      # ROUGE scoring
-│   └── test_speed.py      # Performance benchmarking
+|
 ├── knowledge/             # Knowledge graph initialization
 │   └── init_neo4j.py      # Neo4j schema setup
 └── tmp/                   # Temporary file storage
