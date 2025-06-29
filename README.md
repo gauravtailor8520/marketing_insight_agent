@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered marketing analytics platform that combines machine learning, knowledge graphs, and large language models to provide actionable marketing insights from campaign data.
 
+https://github.com/user-attachments/assets/a0efdbc3-d32b-49ed-9639-0101d6c970bb
+
 ## 🌟 Features
 
 - **Intelligent CSV Processing**: Automated cleaning and normalization of marketing campaign data
